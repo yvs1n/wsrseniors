@@ -3461,6 +3461,21 @@
   "prom_1": [
     {
       "type": "image",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08885.jpg?v=4",
+      "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08885.jpg?v=4"
+    },
+    {
+      "type": "image",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08899.jpg?v=4",
+      "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08899.jpg?v=4"
+    },
+    {
+      "type": "image",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC09032.jpg?v=4",
+      "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC09032.jpg?v=4"
+    },
+    {
+      "type": "image",
       "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08786.jpg?v=4",
       "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08786.jpg?v=4"
     },
@@ -3646,11 +3661,6 @@
     },
     {
       "type": "image",
-      "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08885.jpg?v=4",
-      "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08885.jpg?v=4"
-    },
-    {
-      "type": "image",
       "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08888.jpg?v=4",
       "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08888.jpg?v=4"
     },
@@ -3663,11 +3673,6 @@
       "type": "image",
       "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08894.jpg?v=4",
       "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08894.jpg?v=4"
-    },
-    {
-      "type": "image",
-      "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC08899.jpg?v=4",
-      "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC08899.jpg?v=4"
     },
     {
       "type": "image",
@@ -3903,11 +3908,6 @@
       "type": "image",
       "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC09030.jpg?v=4",
       "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC09030.jpg?v=4"
-    },
-    {
-      "type": "image",
-      "thumb": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/thumbnails/prom_1/DSC09032.jpg?v=4",
-      "orig": "https://cdn.jsdelivr.net/gh/yvs1n/wsrseniors@main/optimized/prom_1/DSC09032.jpg?v=4"
     },
     {
       "type": "image",
